@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![Header](./github-header-image.png)
 <!--
 **Sai-Kiran-Sanku/sai-kiran-sanku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
