@@ -25,7 +25,7 @@ A brief introduction about yourself.
 
 ## Contact Information
 
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/sai-kiran-sanku)
 - saikiran4jobs@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sai-kiran-sanku/)
 
