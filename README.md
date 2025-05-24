@@ -51,4 +51,40 @@ An analytics-driven module integrated into the myInfo platform for tracking top-
 - Developed interactive and responsive dashboards using **React**
 - Built secure APIs using **ASP.NET** to serve performance data
 - Wrote optimized **SQL Server** procedures for analyzing rep training and KPIs
-- Collabor
+- Collaborated with supervisors to improve features based on feedback
+
+#### **myAttendanceFiOS**
+Attendance management application for FiOS CS teams to monitor agent attendance, breaks, LOAs, and more.
+
+- Built features for **absences, LOA reporting, and disciplinary steps**
+- Developed the application using **React JS**, **SQL Server**, and **Spring Boot**
+- Implemented reporting and analytics to streamline attendance monitoring
+- Focused on modular, scalable architecture for enterprise use
+
+---
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Sai%20Kiran%20Sanku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-sanku)  
+[![Email](https://img.shields.io/badge/-saikiran4jobs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiran4jobs@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-Sai--Kiran--Sanku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sai-Kiran-Sanku)
+
+---
+
+### GitHub Stats
+
+![Sai Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai-Kiran-Sanku&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Kiran-Sanku&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sai-Kiran-Sanku&theme=radical)
+
+---
+
+### Contribution Graph
+
+![Contribution Graph](https://raw.githubusercontent.com/Sai-Kiran-Sanku/Sai-Kiran-Sanku/output/github-contribution-grid-snake.svg)
+
+---
+
+Thanks for visiting my profile!
