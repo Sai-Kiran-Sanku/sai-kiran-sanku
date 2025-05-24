@@ -1,60 +1,47 @@
+# Hi there, I'm [Your Name]!
 
-![Header](./github-header-image.png)
-<!--
-**Sai-Kiran-Sanku/sai-kiran-sanku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a focus on **Data Engineering**, currently working at **Verizon**. I love building efficient, scalable data pipelines and exploring cloud technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
 
-# Sai Kiran Sanku
+- **Job Role:** Junior Engineer at Verizon  
+- **Experience:** 2 years in software development, working on SQL, .NET, and React  
+- **Goals:** Transition to a **Data Engineering** role at top tech companies like Walmart  
+- **Currently Learning:** AWS Cloud (Preparing for Cloud Practitioner Certification)  
+- **Tech Stack:**  
+  - **Languages:** SQL, Python, JavaScript  
+  - **Frameworks:** React, .NET  
+  - **Databases:** MS SQL Server, PostgreSQL  
+  - **Tools:** Git, Docker, Power BI  
+  - **Cloud:** AWS (in progress)
 
-![Your Profile Picture](URL to Your Profile Picture)
+---
 
-## About Me
+### Featured Projects
 
-A brief introduction about yourself.
+- **myAttendanceFiOS**  
+  Attendance tracking platform for Verizon CS employees  
+  _Tech: React, .NET, SQL Server_
 
-## Contact Information
+- **SQL Reporting Dashboards**  
+  Custom dashboards for data insights using SQL and Power BI
 
-- [GitHub](https://github.com/sai-kiran-sanku)
-- saikiran4jobs@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/sai-kiran-sanku/)
+---
 
-## Skills
+### Get in Touch
 
-- Web Development
-- Data Analysis
-## Tools
+- [LinkedIn](https://www.linkedin.com/in/yourusername)  
+- [Email](mailto:your.email@example.com)  
+- [Portfolio Website](https://yourportfolio.com) *(if available)*
 
-## Projects
+---
 
-- Project 1: [Project Name](Link to Project Repository)
-- Project 2: [Project Name](Link to Project Repository)
-- ...
+### GitHub Stats
 
-## Open Source Contributions
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- Contribution 1: [Repository](Link to Repository)
-- Contribution 2: [Repository](Link to Repository)
-- ...
+---
 
-## Blog Posts
-
-- [Title of Blog Post](Link to Blog Post)
-- [Title of Blog Post](Link to Blog Post)
-- ...
-
-## Fun Facts
-
-- Fun fact 1
-- Fun fact 2
-- ...
+Thanks for visiting my profile!
