@@ -65,8 +65,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a focu
 
 ---
 
-### Contribution Graph
-
 ![Contribution Graph](https://raw.githubusercontent.com/Sai-Kiran-Sanku/Sai-Kiran-Sanku/output/github-contribution-grid-snake.svg)
 
 ---
