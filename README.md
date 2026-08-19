@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a focu
 
 ### About Me
 
-- **Current Role:** Junior Engineer at Verizon  
 - **Experience:** 2 years in software development  
 - **Goals:** Transition to a **Data Engineering** role at top tech companies like Walmart  
 - **Currently Learning:** AWS (Cloud Practitioner Certification)  
